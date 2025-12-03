@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-chroma
+
+python-dotenv
+gradio
+chromadb
+sentence-transformers
+transformers
+torch
+python-docx
